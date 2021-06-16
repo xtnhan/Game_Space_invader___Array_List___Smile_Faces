@@ -3,7 +3,7 @@ smileFace smf1 = new smileFace (170, 250, 50);
 smileFace smf2 = new smileFace (280, 250, 50);
 Player p = new Player (500, 900, 100);
 Bullet b = new Bullet (100, 900);
-
+// This is new
 
 
 ArrayList <smileFace> smile = new ArrayList <smileFace> (); //smileFace is data type || smile is the name of the list
